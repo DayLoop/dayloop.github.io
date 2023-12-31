@@ -2,10 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DayLoop&#39;s Blog</title>
-    <link>https://example.org/</link>
+    <link>https://dayloop.github.io/</link>
     <description>Recent content on DayLoop&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dayloop.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Last Day of 2023</title>
+      <link>https://dayloop.github.io/the-last-day-of-2023/</link>
+      <pubDate>Sun, 31 Dec 2023 21:40:00 +0800</pubDate>
+      <guid>https://dayloop.github.io/the-last-day-of-2023/</guid>
+      <description>The Last Day of 2023 Written by DayLoop on 12/31/2023</description>
+    </item>
   </channel>
 </rss>
