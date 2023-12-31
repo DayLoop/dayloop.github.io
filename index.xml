@@ -6,15 +6,21 @@
     <description>Recent content on DayLoop&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 31 Dec 2023 22:26:22 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jan 2024 00:25:07 +0800</lastBuildDate>
     <atom:link href="https://dayloop.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2024 Wishes</title>
+      <link>https://dayloop.github.io/post/2024-wishes/</link>
+      <pubDate>Mon, 01 Jan 2024 00:25:07 +0800</pubDate>
+      <guid>https://dayloop.github.io/post/2024-wishes/</guid>
+      <description>&lt;p&gt;​	2024，我们在这里许愿。&lt;/p&gt;</description>
+    </item>
     <item>
       <title>My Last Day in 2023</title>
       <link>https://dayloop.github.io/post/my-last-day-in-2023/</link>
       <pubDate>Sun, 31 Dec 2023 22:26:22 +0800</pubDate>
       <guid>https://dayloop.github.io/post/my-last-day-in-2023/</guid>
-      <description>​	This is written by DayLoop.
-​	Wonderful days never look back, but what we know is what we have, for those unknown things, just keep mum and open your eyes.</description>
+      <description>&lt;p&gt;​	再见，2023。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
